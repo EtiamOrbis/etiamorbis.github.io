@@ -5,7 +5,8 @@
       {
         "appID": "NKY39M33VA.com.hungry.ninja",
         "paths": [
-          "/catalog"
+          "/catalog",
+          "/catalog/"
         ]
       }
     ]
